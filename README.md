@@ -6,10 +6,10 @@ a server side technology,which is responsible for creating dynamic web pages.
 
 ![](Images/en1.JPG)
 
-![](Images/en2.JPG)
+![](Images/en2.jpg)
 
 ![](Images/en3.JPG)
 
 ![](Images/en4.JPG)
 
-![](Images/en5.JPG)
+![](Images/en5.jpg)
