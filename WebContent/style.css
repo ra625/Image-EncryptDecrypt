@@ -1,0 +1,57 @@
+html { 
+  background: url(encryp.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+} 
+.main{ 
+	 position: relative;
+	margin-top:40px;
+    display:block;
+    left:30%;
+    transform: translate(-40%);
+    width: 50%;
+    padding-left: 30px;
+   padding-right: 20px;
+   padding-top: 20px;
+   padding-bottom: 0px;
+   border-radius: 30px;
+   
+    overflow: auto;
+	color:rgba(197, 239, 247, 1);
+	font-size:35px;
+    text-align:center; 
+    background:rgba(37,116,169,.5);
+    box-shadow: 0 5px 15px rgba(0,0,0,.5);
+} 
+.txt{
+ height: 100%;
+  width: 200px;
+  outline: none;
+  margin-bottom:30px;
+  font-size: 17px;
+   padding-bottom: 10px;
+  border: 1px solid black;
+  border-radius: 25px;
+  transition: all 0.3s ease;
+ } 
+.file {
+  opacity: 0;
+  width: 0.1px;
+  height: 0.1px;
+  position: absolute;
+}
+
+.submit{
+  margin: 0;
+  position: absolute;
+  top: 70%;
+  left: 75%;
+  transform: translate(-25%, -50%);
+  font-size:40px;
+  color:rgba(197, 239, 247, 1);
+  border-radius:20px;
+  background:rgba(0,183,255,1);
+	
+}
